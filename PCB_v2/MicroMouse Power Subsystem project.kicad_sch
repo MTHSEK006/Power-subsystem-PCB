@@ -741,29 +741,27 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:USB_C_Receptacle_USB2.0"
+		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
 			(pin_names
 				(offset 1.016)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at -10.16 19.05 0)
+			(property "Reference" "J1"
+				(at 0 22.86 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "USB_C_Receptacle_USB2.0"
-				(at 19.05 19.05 0)
+			(property "Value" "GT-USB-7010ASV"
+				(at 0 20.32 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
 			(property "Footprint" ""
@@ -784,7 +782,16 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "USB 2.0-only Type-C Receptacle connector"
+			(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C2988369"
 				(at 0 0 0)
 				(effects
 					(font
@@ -811,7 +818,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_0_0"
+			(symbol "USB_C_Receptacle_USB2.0_16P_0_0"
 				(rectangle
 					(start -0.254 -17.78)
 					(end 0.254 -16.764)
@@ -923,7 +930,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_0_1"
+			(symbol "USB_C_Receptacle_USB2.0_16P_0_1"
 				(rectangle
 					(start -10.16 17.78)
 					(end 10.16 -17.78)
@@ -1124,7 +1131,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_1_1"
+			(symbol "USB_C_Receptacle_USB2.0_16P_1_1"
 				(pin passive line
 					(at -7.62 -22.86 90)
 					(length 5.08)
@@ -4951,14 +4958,6 @@
 		(uuid "0a207413-4cef-425a-aa6c-d01be353b3d4")
 	)
 	(no_connect
-		(at 41.275 49.53)
-		(uuid "1466c7b6-654b-4845-846c-2ea4ea6a35c9")
-	)
-	(no_connect
-		(at 41.275 52.07)
-		(uuid "25a295c8-f4be-433d-94b1-ac1d79db301d")
-	)
-	(no_connect
 		(at 154.305 52.07)
 		(uuid "3dd64ddb-e250-4383-b553-2b3d39ffaf46")
 	)
@@ -7490,7 +7489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP100P600X180-11N"
+		(property "Footprint" "Library_3088:SOP100P600X180-11N"
 			(at 93.98 120.955 0)
 			(effects
 				(font
@@ -7585,6 +7584,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C970725"
+			(at 67.31 26.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -8197,7 +8205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS63802DLAR"
+		(property "Footprint" "Library_3088:TPS63802DLAR"
 			(at 243.84 122.225 0)
 			(effects
 				(font
@@ -8498,7 +8506,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm"
+		(property "Footprint" "Library_3088:BQ24074RGTR"
 			(at 161.925 50.8 0)
 			(effects
 				(font
@@ -10624,7 +10632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RHL(R-PVQFN-N20)_1"
+		(property "Footprint" "Library_3088:RHL(R-PVQFN-N20)_1"
 			(at 157.15 84.455 0)
 			(effects
 				(font
@@ -10719,6 +10727,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C87357"
+			(at 72.39 116.205 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -11459,7 +11476,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB_C_Receptacle_USB2.0")
+		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
 		(at 26.035 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11469,15 +11486,15 @@
 		(fields_autoplaced yes)
 		(uuid "e03c0ef1-923e-4597-a068-ca07ce1c3992")
 		(property "Reference" "J1"
-			(at 26.035 14.605 0)
+			(at 26.035 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0"
-			(at 26.035 17.145 0)
+		(property "Value" "GT-USB-7010ASV"
+			(at 26.035 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11502,12 +11519,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
 			(at 26.035 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2988369"
+			(at 26.035 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "A1"
@@ -11527,9 +11554,6 @@
 		)
 		(pin "A7"
 			(uuid "4bcb6b18-0f4b-493f-a3c2-4b51a91d0600")
-		)
-		(pin "A8"
-			(uuid "3174c605-fbc6-4e83-9361-3b2e33a2a985")
 		)
 		(pin "A9"
 			(uuid "15359e95-d613-4f0d-8858-19e1ad6a2b0e")
@@ -11552,14 +11576,17 @@
 		(pin "B7"
 			(uuid "940883ab-dc65-4ec4-80b8-7bcd2a106b9d")
 		)
-		(pin "B8"
-			(uuid "5d877f0e-8126-4244-b5a1-d06b9a5fc93c")
-		)
 		(pin "B9"
 			(uuid "7a0a6ec7-c5fc-4fe9-a428-c74c03eb25ae")
 		)
 		(pin "S1"
 			(uuid "9c37bd5a-d1f4-4790-b108-330cb392f07f")
+		)
+		(pin "B8"
+			(uuid "911d2e9d-fc61-487e-9532-dc9655c69e8b")
+		)
+		(pin "A8"
+			(uuid "c889641d-fcd0-4253-8311-2a548f57da2b")
 		)
 		(instances
 			(project "MicroMouse Power Subsystem project"

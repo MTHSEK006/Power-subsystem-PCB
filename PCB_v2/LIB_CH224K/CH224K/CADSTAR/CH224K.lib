@@ -1,0 +1,18 @@
+.CH224K :1 ;ESSOP-10 USB ICs ROHS
+SOP100P600X180-11N
+*STM IC
+*NGS
+*PLB 1="VDD" 2="CFG2" 3="CFG3" 4="DP" 5="DM" 6="CC2" 7="CC1" 8="VBUS" 9="CFG1" 10="PG" 11="GND"
+*MXP 11
+*DFN CH224K
+~!Manufacturer_Name (WCH)
+~!Manufacturer_Part_Number (CH224K)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/lcsc/2204251615_WCH-Jiangsu-Qin-Heng-CH224K_C970725.pdf)
+~!Height (1.8mm)
+~!3D_Model (CH224K)
+CH224K
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

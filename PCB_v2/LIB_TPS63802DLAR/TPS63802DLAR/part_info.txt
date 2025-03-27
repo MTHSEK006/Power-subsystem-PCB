@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS63802DLAR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=10
+Version=1.2
+Released=2019-05-17 11:50:37
+Downloaded=2025-03-26 23:31:33
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CH224K"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-20-17:45:17)
+    (mountForm default
+        (footprintRef "SOP100P600X180-11N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,18 @@
+.TPS61088RHLR :1 ;10-A Fully-Integrated Synchronous Boost Converter
+RHL_R-PVQFN-N20__1
+*STM IC
+*NGS
+*PLB 1="VCC" 2="EN" 3="FSW" 4="SW_1" 5="SW_2" 6="SW_3" 7="SW_4" 8="BOOT" 9="VBN" 10="SS" 11="NC_1" 12="NC_2" 13="MODE" 14="VOUT_1" 15="VOUT_2" 16="VOUT_3" 17="FB" 18="COMP" 19="ILIM" 20="AGND" 21="PGND"
+*MXP 21
+*DFN TPS61088RHLR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS61088RHLR)
+~!Mouser Part Number (595-TPS61088RHLR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61088RHLR?qs=MiqG6Kq1qKNjgpnslrNKug%3D%3D)
+~!Arrow Part Number (TPS61088RHLR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tps61088rhlr/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tps61088)
+~!Height (-)
+~!3D_Model (TPS61088RHLR)
+TPS61088RHLR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 

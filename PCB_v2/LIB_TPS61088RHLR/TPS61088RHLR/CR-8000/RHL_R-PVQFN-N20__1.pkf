@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RHL_R-PVQFN-N20__1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RHL_R-PVQFN-N20__1")
+        (spec "default")
+    )
+)

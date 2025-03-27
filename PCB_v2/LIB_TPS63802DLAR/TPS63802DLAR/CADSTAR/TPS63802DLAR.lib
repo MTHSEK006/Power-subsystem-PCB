@@ -1,0 +1,18 @@
+.TPS63802DLAR :1 ;Texas Instruments High current, high efficiency single inductor buck-boost converter 10-VSON-HR -40 to 125
+TPS63802DLAR
+*STM IC
+*NGS
+*PLB 1="EN" 2="MODE" 3="AGND" 4="FB" 5="PG" 6="VOUT" 7="L2" 8="GND" 9="L1" 10="VIN"
+*MXP 10
+*DFN TPS63802DLAR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS63802DLAR)
+~!Mouser Part Number (595-TPS63802DLAR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS63802DLAR?qs=9r4v7xj2Lnmr2ylyTiX9Mg%3D%3D)
+~!Arrow Part Number (TPS63802DLAR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tps63802dlar/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tps63802.pdf)
+~!Height (1mm)
+~!3D_Model (TPS63802DLAR)
+TPS63802DLAR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

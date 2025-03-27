@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS63802DLAR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS63802DLAR" (!) = "", "TPS63802DLAR", "Other", "595-TPS63802DLAR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS63802DLAR?qs=9r4v7xj2Lnmr2ylyTiX9Mg%3D%3D", "TPS63802DLAR", "https://www.arrow.com/en/products/tps63802dlar/texas-instruments?utm_currency=USD&region=nac", "Texas Instruments High current, high efficiency single inductor buck-boost converter 10-VSON-HR -40 to 125", "http://www.ti.com/lit/ds/symlink/tps63802.pdf", "1 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=WCH
+PartNumber=CH224K
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=11
+Version=2.2
+Released=2023-05-04 04:32:53
+Downloaded=2025-03-26 23:01:34
+3D=Y

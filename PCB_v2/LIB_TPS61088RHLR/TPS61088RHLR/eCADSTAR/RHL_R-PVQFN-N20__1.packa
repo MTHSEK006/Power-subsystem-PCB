@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPS61088RHLR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "RHL_R-PVQFN-N20__1")
+        (spec "System")
+    )
+)

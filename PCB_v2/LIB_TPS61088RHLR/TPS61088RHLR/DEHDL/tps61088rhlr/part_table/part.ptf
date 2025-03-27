@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS61088RHLR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Texas Instruments", "TPS61088RHLR" (!) = "", "RHL(R-PVQFN-N20)_1", "Other", "595-TPS61088RHLR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61088RHLR?qs=MiqG6Kq1qKNjgpnslrNKug%3D%3D", "TPS61088RHLR", "https://www.arrow.com/en/products/tps61088rhlr/texas-instruments?utm_currency=USD&region=nac", "10-A Fully-Integrated Synchronous Boost Converter", "http://www.ti.com/lit/gpn/tps61088"
+END_PART
+
+END.

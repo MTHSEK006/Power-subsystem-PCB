@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPS63802DLAR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-17-11:50:37)
+    (mountForm default
+        (footprintRef "TPS63802DLAR")
+        (spec "System")
+    )
+)

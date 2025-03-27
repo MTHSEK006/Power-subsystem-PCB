@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TPS63802DLAR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TPS63802DLAR")
+        (spec "default")
+    )
+)
