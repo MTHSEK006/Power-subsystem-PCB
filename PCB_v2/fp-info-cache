@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 24742577980011504
+=======
+24742692850162088
+>>>>>>> origin/main
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65848,6 +65852,7 @@ Yellow 5381 Series LED
 0
 2
 2
+<<<<<<< HEAD
 Library_3088
 BQ24074RGTR
 BQ24074RGTR-1
@@ -65876,6 +65881,36 @@ Integrated Circuit
 0
 10
 10
+=======
+Library
+IC_DRV8833PWPR
+
+
+0
+29
+29
+Library
+RESCAXS80P320X160X60-8N
+
+
+0
+8
+8
+Library
+SON50P120X160X60-5N
+
+
+0
+5
+5
+Library
+SOT65P280X145-8N
+
+
+0
+8
+8
+>>>>>>> origin/main
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
