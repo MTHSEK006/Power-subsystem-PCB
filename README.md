@@ -3,13 +3,23 @@ MTHSEK006 & MKFMOR011**
 
 **Description**  
 
-This project involves the development of the micro-mouse power sub-system. The power sub-system is used to power the entire micro-mouse. There are eight requirements in total. These requirements will be equally divided between MTHSEK006 and MFKMOR011. MTHSEK006 requirements designs can be found under pearl_pcb_design branch and MFKMOR011 requirements design can be found under morena_pcb_design. At the end of the project, the power sub-system should be able to integrate with other components of the micro-mouse which include the motherboard, processor, sensing unit and the microcontroller.
+This project involves the design and development of the micro-mouse power sub-system. The power sub-system is used to power the entire micro-mouse. This project is designed and developed in Kicad. Production files are jlcpcb compabable because project PCB is developed by JLCPCB. There are eight requirements in total. These requirements will be equally divided between MTHSEK006 and MFKMOR011. MTHSEK006 requirements designs can be found under pearl_pcb_design branch and MFKMOR011 requirements design can be found under morena_pcb_design. MTHSEK006 requirements include: 
+* The power sub-system should operate 4 motors.
+* The power sub-system should have a battery monitoring module.
+* The power sub-system should provide 2x external load switching.
+* The power sub-system should have a ON/OFF switch.
+MFKMORO11 requirements include: 
+* The power sub-system battery should be charged.
+* The power sub-system should have two charging modes.
+* The power sub-system should be integrated with a USB-C port.
+* The power sub-system should have a 3V3 and 5V output channel.
+At the end of the project, the power sub-system should be able to integrate with other components of the micro-mouse which include the motherboard, processor, sensing unit and the microcontroller.
 
 **Structure**  
 
 * PCB_v2.1: This includes the final PCB design. Contains Kicad files. 
 * PCB_v2: This is the intial PCB design. Contains Kicad files.
-* Documents: This includes footprints, symbol libraries, datasheets and project documentation. 
+* Documents: This includes footprints, symbol libraries, datasheets. 
 * Production: Contains the gerber, clp and bom files.
 
 **Usage**
