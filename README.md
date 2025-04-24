@@ -14,7 +14,7 @@ This project involves the development of the micro-mouse power sub-system. The p
   Th files needed to produce this PCB are found under Production. 
 **Contact** 
 
-* Pearl Mothiba- [Email address](mthsek006@myuct.ac.za)
+* Pearl Mothiba- MTHSEK006@myuct.ac.za
 * Morena Mofokeng- MKFMOR011@myuct.ac.za
   
 **Authors and Acknowledgement**
