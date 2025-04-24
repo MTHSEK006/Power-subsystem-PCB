@@ -8,6 +8,7 @@ This project involves the design and development of the micro-mouse power sub-sy
 * The power sub-system should have a battery monitoring module.
 * The power sub-system should provide 2x external load switching.
 * The power sub-system should have a ON/OFF switch.
+  
 MFKMORO11 requirements include: 
 * The power sub-system battery should be charged.
 * The power sub-system should have two charging modes.
