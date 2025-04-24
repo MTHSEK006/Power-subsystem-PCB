@@ -2,7 +2,7 @@
 MTHSEK006 & MKFMOR011**
 
 **Description**  
-This project involves the development of the micro-mouse power sub-system. The power sub-system is used to power the entire micro-mouse. There are eight requirements in total. These requirements will be equally divided between MTHSEK006 and MFKMOR011. At the end of the project, the power sub-system should be able to integrate with other components of the micro-mouse which include the motherboard, processor and sensing unit.
+This project involves the development of the micro-mouse power sub-system. The power sub-system is used to power the entire micro-mouse. There are eight requirements in total. These requirements will be equally divided between MTHSEK006 and MFKMOR011. MTHSEK006 requirements designs can be found under pearl-design branch and MFKMOR011 requirements design can be found under morena-design branch. At the end of the project, the power sub-system should be able to integrate with other components of the micro-mouse which include the motherboard, processor and sensing unit.
 
 **Structure**  
 * PCB_v2.1: This includes the final PCB design. Contains Kicad files. 
