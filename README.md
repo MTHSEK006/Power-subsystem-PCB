@@ -3,7 +3,7 @@ MTHSEK006 & MKFMOR011**
 
 **Description**  
 
-This project involves the design and development of the micro-mouse power sub-system. The power sub-system is used to power the entire micro-mouse. This project is designed and developed in Kicad. Production files are jlcpcb compabable because project PCB is developed by JLCPCB. There are eight requirements in total. These requirements will be equally divided between MTHSEK006 and MFKMOR011. MTHSEK006 requirements designs can be found under pearl_pcb_design branch and MFKMOR011 requirements design can be found under morena_pcb_design. MTHSEK006 requirements include: 
+This project involves the design and development of the micro-mouse power sub-system. The power sub-system is used to power the entire micro-mouse. This project is designed and developed in Kicad. Production files are jlcpcb compatible because project PCB is developed by JLCPCB. There are eight requirements in total. These requirements will be equally divided between MTHSEK006 and MFKMOR011. MTHSEK006 requirements designs can be found under pearl_pcb_design branch and MFKMOR011 requirements design can be found under morena_pcb_design branch. MTHSEK006 requirements include: 
 * The power sub-system should operate 4 motors.
 * The power sub-system should have a battery monitoring module.
 * The power sub-system should provide 2x external load switching.
