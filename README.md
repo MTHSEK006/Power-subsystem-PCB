@@ -9,13 +9,14 @@ This project involves the development of the micro-mouse power sub-system. The p
 
 * PCB_v2.1: This includes the final PCB design. Contains Kicad files. 
 * PCB_v2: This is the intial PCB design. Contains Kicad files.
-* Documents: This includes footprints and symbol libraries.
+* Documents: This includes footprints, symbol libraries and datasheets. 
 * Production: Contains the gerber, clp and bom files.
 
 **Usage**
 
-  The files needed to produce this PCB are found under Production. 
-  
+  * The files needed to produce this PCB are found under Production. This folder can be downloaded and directly used for production.  
+  * The final PCB design can be viewed by downloading PCB_v2.1 and opening the project in Kicad. 
+ 
 **Contact** 
 
 * Pearl Mothiba- MTHSEK006@myuct.ac.za
