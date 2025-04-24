@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "DRV8833PWPR")(type "KiCad")(uri "${KIPRJMOD}/DRV8833PWPR/DRV8833PWPR.kicad_sym")(options "")(descr ""))
-  (lib (name "SIP32431DNP3-T1GE4")(type "KiCad")(uri "${KIPRJMOD}/SIP32431DNP3-T1GE4/SIP32431DNP3-T1GE4.kicad_sym")(options "")(descr ""))
-  (lib (name "SS-12D11G3R")(type "KiCad")(uri "${KIPRJMOD}/LIB_SS-12D11G3R/SS-12D11G3R/KiCad/SS-12D11G3R.kicad_sym")(options "")(descr ""))
-)
